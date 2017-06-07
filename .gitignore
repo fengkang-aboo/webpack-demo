@@ -1,6 +1,14 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
 
 # Folder config file
 Desktop.ini
@@ -45,3 +53,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.DS_Store
+
+
